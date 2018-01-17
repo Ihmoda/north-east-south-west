@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9024142200FAC5A008CFD5C /* directionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9024141200FAC59008CFD5C /* directionViewController.swift */; };
 		F9C92AB7200F089300C75A0B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C92AB6200F089300C75A0B /* AppDelegate.swift */; };
 		F9C92AB9200F089300C75A0B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C92AB8200F089300C75A0B /* ViewController.swift */; };
 		F9C92ABC200F089300C75A0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9C92ABA200F089300C75A0B /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F9024141200FAC59008CFD5C /* directionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = directionViewController.swift; sourceTree = "<group>"; };
 		F9C92AB3200F089300C75A0B /* North-East-South-West.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "North-East-South-West.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9C92AB6200F089300C75A0B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9C92AB8200F089300C75A0B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		F9C92AB5200F089300C75A0B /* North-East-South-West */ = {
 			isa = PBXGroup;
 			children = (
+				F9024141200FAC59008CFD5C /* directionViewController.swift */,
 				F9C92AB6200F089300C75A0B /* AppDelegate.swift */,
 				F9C92AB8200F089300C75A0B /* ViewController.swift */,
 				F9C92ABA200F089300C75A0B /* Main.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				F9C92AB9200F089300C75A0B /* ViewController.swift in Sources */,
 				F9C92AB7200F089300C75A0B /* AppDelegate.swift in Sources */,
+				F9024142200FAC5A008CFD5C /* directionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
